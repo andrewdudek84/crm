@@ -1,0 +1,13 @@
+{
+  "name": "NodeServer",
+  "version": "0.0.0",
+  "description": "NodeServer",
+  "main": "app.js",
+  "author": {
+    "name": "drewd",
+    "email": ""
+  },
+  "dependencies": {
+    "util": "^0.10.3"
+  }
+}
