@@ -8,6 +8,7 @@
     "email": ""
   },
   "dependencies": {
-    "util": "^0.10.3"
+    "util": "^0.10.3",
+    "tedious": "^1.13.2"
   }
 }
